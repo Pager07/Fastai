@@ -10,9 +10,7 @@ from fastai.vision import *
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1-78O7PZRzMDRZamMXFiSnklyZCRG992z'
 export_file_name = 'export.pkl'
-classes = ['maruti-baleno','maruti-swift','maruti-wagonr', 'maruti-vitara-breeza', 'hyundai-creta', 'mahindra-scorpio'
-          , 'hyundai-elite-i20', 'maruti-dzire', 'renault-kwid', 'toyota-fortuner', 'toyota-innova', 'maruti-ertiga'
-          , 'mahindra-bolero', 'hyundai-grand-i10', 'honda-amaze', 'hyundai-verna', 'honda-city']
+classes = ['adult' , 'child' , 'teen']
 #classes = ['black', 'grizzly', 'teddys']
 path = Path(__file__).parent
 
