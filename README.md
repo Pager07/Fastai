@@ -1,4 +1,4 @@
-# Car Classifier Web App
+# Age/Life stage classifier Web App
 Age Classifier Web app deployed to Google App Engine. This web app can categorizes people in the photo into different respective life stage. Just upload the image of 
 your favourite person and with the help of deep learning.
 
