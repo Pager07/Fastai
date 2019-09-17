@@ -7,8 +7,8 @@ your favourite person and with the help of deep learning.
 
 ### Cars the app can recognize
 * Adults
-*Childs
-*Teen
+* Childs
+* Teen
 
 ### Source Code
 
